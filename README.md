@@ -1,5 +1,5 @@
 # GPermissions
-#Android6.0权限
+# Android6.0权限
 
 ![image](https://github.com/GuoZhiHao9396/GPermissions/blob/master/app/src/main/res/raw/test.gif)
 
