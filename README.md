@@ -35,7 +35,7 @@ public interface IGPermissions {
 }
 ```
 
-#License
+# License
 ```text
 Copyright 2016 ZhiHao Guo
 
